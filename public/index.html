@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#09090b" />
+    <meta name="description" content="CineScope movie data intelligence dashboard" />
+    <title>CineScope — Movie Intelligence</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <aside class="sidebar">
+      <a class="brand" href="#" aria-label="CineScope home">
+        <span class="brand-mark">C</span>
+        <span>CineScope</span>
+      </a>
+      <nav class="nav" aria-label="Primary navigation">
+        <button class="nav-item active" data-view="overview"><span>▦</span> Overview</button>
+        <button class="nav-item" data-view="catalog"><span>◫</span> Catalog</button>
+        <button class="nav-item" data-view="genres"><span>⌘</span> Genre analysis</button>
+      </nav>
+      <div class="sidebar-foot">
+        <span class="status-dot"></span>
+        <div><strong>Dataset online</strong><small id="dataset-range">Loading...</small></div>
+      </div>
+    </aside>
+
+    <main>
+      <header>
+        <div>
+          <p class="eyebrow">MOVIE ANALYTICS</p>
+          <h1 id="page-title">Overview</h1>
+        </div>
+        <label class="search">
+          <span>⌕</span>
+          <input id="search" type="search" placeholder="Search movies..." autocomplete="off" />
+          <kbd>/</kbd>
+        </label>
+      </header>
+
+      <section id="overview-view" class="view active">
+        <div class="kpi-grid" id="kpis"></div>
+        <div class="chart-grid">
+          <article class="panel rating-panel">
+            <div class="panel-head">
+              <div><p>Distribution</p><h2>Rating spread</h2></div>
+              <span class="legend"><i></i> Movies</span>
+            </div>
+            <canvas id="ratingChart"></canvas>
+          </article>
+          <article class="panel genre-panel">
+            <div class="panel-head">
+              <div><p>Performance</p><h2>Top genres</h2></div>
+            </div>
+            <canvas id="genreChart"></canvas>
+          </article>
+        </div>
+        <div class="bottom-grid">
+          <article class="panel trend-panel">
+            <div class="panel-head">
+              <div><p>History</p><h2>Release activity</h2></div>
+              <button class="icon-button" id="download-data" title="Download clean CSV">↓ CSV</button>
+            </div>
+            <canvas id="yearChart"></canvas>
+          </article>
+          <article class="panel categories-panel">
+            <div class="panel-head"><div><p>Classification</p><h2>Rating categories</h2></div></div>
+            <div id="category-bars"></div>
+          </article>
+        </div>
+      </section>
+
+      <section id="catalog-view" class="view">
+        <div class="catalog-toolbar">
+          <div class="filters">
+            <select id="genre-filter" aria-label="Filter by genre"><option value="">All genres</option></select>
+            <select id="year-filter" aria-label="Filter by year"><option value="">All years</option></select>
+            <select id="rating-filter" aria-label="Filter by rating">
+              <option value="">All ratings</option><option value="Excellent">Excellent</option>
+              <option value="Good">Good</option><option value="Average">Average</option><option value="Poor">Poor</option>
+            </select>
+            <select id="sort-filter" aria-label="Sort movies">
+              <option value="popularity">Popularity</option><option value="rating">Rating</option>
+              <option value="votes">Vote count</option><option value="title">Title A-Z</option>
+            </select>
+          </div>
+          <span id="result-count"></span>
+        </div>
+        <div class="movie-grid" id="movie-grid"></div>
+        <div class="pagination" id="pagination"></div>
+      </section>
+
+      <section id="genres-view" class="view">
+        <div class="genre-table-panel panel">
+          <div class="panel-head"><div><p>Category analysis</p><h2>Genre performance</h2></div></div>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th>Genre</th><th>Movies</th><th>Average rating</th><th>Avg. popularity</th><th>Performance</th></tr></thead>
+              <tbody id="genre-table"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <div class="modal" id="movie-modal" aria-hidden="true">
+      <div class="modal-backdrop"></div>
+      <article class="modal-card" role="dialog" aria-modal="true">
+        <button class="modal-close" aria-label="Close">×</button>
+        <img id="modal-poster" alt="" />
+        <div class="modal-copy">
+          <p id="modal-meta"></p><h2 id="modal-title"></h2>
+          <div class="modal-stats"><div><strong id="modal-rating"></strong><span>Rating</span></div><div><strong id="modal-popularity"></strong><span>Popularity</span></div><div><strong id="modal-votes"></strong><span>Votes</span></div></div>
+          <p id="modal-overview"></p>
+        </div>
+      </article>
+    </div>
+    <div id="loading" class="loading"><span></span><p>Analyzing dataset...</p></div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <script src="/app.js"></script>
+  </body>
+</html>

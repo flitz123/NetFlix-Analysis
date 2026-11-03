@@ -1,0 +1,1662 @@
+{
+  "summary": {
+    "movie_count": 9826,
+    "average_rating": 6.44,
+    "median_rating": 6.5,
+    "average_popularity": 40.32,
+    "total_votes": 13687065,
+    "languages": 43,
+    "genres": 19,
+    "date_min": "1902-04-17",
+    "date_max": "2024-07-03",
+    "rating_stddev": 1.13,
+    "popularity_rating_correlation": 0.054,
+    "rating_quartiles": [
+      5.9,
+      6.5,
+      7.1
+    ]
+  },
+  "rating_categories": [
+    {
+      "category": "Average",
+      "count": 6007
+    },
+    {
+      "category": "Good",
+      "count": 2790
+    },
+    {
+      "category": "Poor",
+      "count": 593
+    },
+    {
+      "category": "Excellent",
+      "count": 436
+    }
+  ],
+  "popularity_categories": [
+    {
+      "category": "Low",
+      "count": 4480
+    },
+    {
+      "category": "Medium",
+      "count": 3303
+    },
+    {
+      "category": "High",
+      "count": 1494
+    },
+    {
+      "category": "Blockbuster",
+      "count": 549
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "count": 7569
+    },
+    {
+      "language": "ja",
+      "count": 645
+    },
+    {
+      "language": "es",
+      "count": 339
+    },
+    {
+      "language": "fr",
+      "count": 292
+    },
+    {
+      "language": "ko",
+      "count": 170
+    },
+    {
+      "language": "zh",
+      "count": 129
+    },
+    {
+      "language": "it",
+      "count": 123
+    },
+    {
+      "language": "cn",
+      "count": 109
+    },
+    {
+      "language": "ru",
+      "count": 83
+    },
+    {
+      "language": "de",
+      "count": 82
+    },
+    {
+      "language": "pt",
+      "count": 37
+    },
+    {
+      "language": "da",
+      "count": 28
+    }
+  ],
+  "genres": [
+    {
+      "genre": "Drama",
+      "count": 3744,
+      "average_rating": 6.71,
+      "average_popularity": 30.08
+    },
+    {
+      "genre": "Comedy",
+      "count": 3031,
+      "average_rating": 6.38,
+      "average_popularity": 37.87
+    },
+    {
+      "genre": "Action",
+      "count": 2686,
+      "average_rating": 6.33,
+      "average_popularity": 50.89
+    },
+    {
+      "genre": "Thriller",
+      "count": 2488,
+      "average_rating": 6.25,
+      "average_popularity": 42.95
+    },
+    {
+      "genre": "Adventure",
+      "count": 1853,
+      "average_rating": 6.46,
+      "average_popularity": 53.74
+    },
+    {
+      "genre": "Romance",
+      "count": 1476,
+      "average_rating": 6.56,
+      "average_popularity": 30.87
+    },
+    {
+      "genre": "Horror",
+      "count": 1470,
+      "average_rating": 5.94,
+      "average_popularity": 38.26
+    },
+    {
+      "genre": "Animation",
+      "count": 1438,
+      "average_rating": 6.85,
+      "average_popularity": 52.43
+    },
+    {
+      "genre": "Family",
+      "count": 1414,
+      "average_rating": 6.58,
+      "average_popularity": 46.61
+    },
+    {
+      "genre": "Fantasy",
+      "count": 1308,
+      "average_rating": 6.53,
+      "average_popularity": 53.08
+    },
+    {
+      "genre": "Science Fiction",
+      "count": 1273,
+      "average_rating": 6.26,
+      "average_popularity": 49.51
+    },
+    {
+      "genre": "Crime",
+      "count": 1242,
+      "average_rating": 6.55,
+      "average_popularity": 44.75
+    },
+    {
+      "genre": "Mystery",
+      "count": 773,
+      "average_rating": 6.43,
+      "average_popularity": 40.09
+    },
+    {
+      "genre": "History",
+      "count": 427,
+      "average_rating": 6.97,
+      "average_popularity": 28.4
+    },
+    {
+      "genre": "War",
+      "count": 308,
+      "average_rating": 6.95,
+      "average_popularity": 35.3
+    },
+    {
+      "genre": "Music",
+      "count": 295,
+      "average_rating": 6.88,
+      "average_popularity": 33.77
+    },
+    {
+      "genre": "Documentary",
+      "count": 215,
+      "average_rating": 6.66,
+      "average_popularity": 29.24
+    },
+    {
+      "genre": "TV Movie",
+      "count": 214,
+      "average_rating": 6.44,
+      "average_popularity": 29.95
+    },
+    {
+      "genre": "Western",
+      "count": 137,
+      "average_rating": 6.75,
+      "average_popularity": 36.19
+    }
+  ],
+  "years": [
+    {
+      "year": 1902,
+      "count": 1,
+      "average_rating": 8.0
+    },
+    {
+      "year": 1920,
+      "count": 1,
+      "average_rating": 8.0
+    },
+    {
+      "year": 1921,
+      "count": 2,
+      "average_rating": 8.05
+    },
+    {
+      "year": 1922,
+      "count": 2,
+      "average_rating": 7.65
+    },
+    {
+      "year": 1925,
+      "count": 1,
+      "average_rating": 7.7
+    },
+    {
+      "year": 1926,
+      "count": 2,
+      "average_rating": 8.0
+    },
+    {
+      "year": 1927,
+      "count": 2,
+      "average_rating": 7.7
+    },
+    {
+      "year": 1929,
+      "count": 1,
+      "average_rating": 7.5
+    },
+    {
+      "year": 1930,
+      "count": 1,
+      "average_rating": 7.8
+    },
+    {
+      "year": 1931,
+      "count": 5,
+      "average_rating": 7.7
+    },
+    {
+      "year": 1932,
+      "count": 5,
+      "average_rating": 7.3
+    },
+    {
+      "year": 1933,
+      "count": 4,
+      "average_rating": 7.03
+    },
+    {
+      "year": 1935,
+      "count": 3,
+      "average_rating": 7.43
+    },
+    {
+      "year": 1936,
+      "count": 2,
+      "average_rating": 7.25
+    },
+    {
+      "year": 1937,
+      "count": 2,
+      "average_rating": 7.1
+    },
+    {
+      "year": 1938,
+      "count": 5,
+      "average_rating": 7.3
+    },
+    {
+      "year": 1939,
+      "count": 6,
+      "average_rating": 7.5
+    },
+    {
+      "year": 1940,
+      "count": 6,
+      "average_rating": 7.65
+    },
+    {
+      "year": 1941,
+      "count": 6,
+      "average_rating": 7.27
+    },
+    {
+      "year": 1942,
+      "count": 4,
+      "average_rating": 6.92
+    },
+    {
+      "year": 1943,
+      "count": 4,
+      "average_rating": 6.8
+    },
+    {
+      "year": 1944,
+      "count": 3,
+      "average_rating": 7.33
+    },
+    {
+      "year": 1945,
+      "count": 2,
+      "average_rating": 7.4
+    },
+    {
+      "year": 1946,
+      "count": 8,
+      "average_rating": 7.5
+    },
+    {
+      "year": 1947,
+      "count": 5,
+      "average_rating": 7.3
+    },
+    {
+      "year": 1948,
+      "count": 6,
+      "average_rating": 7.6
+    },
+    {
+      "year": 1949,
+      "count": 6,
+      "average_rating": 7.3
+    },
+    {
+      "year": 1950,
+      "count": 7,
+      "average_rating": 7.76
+    },
+    {
+      "year": 1951,
+      "count": 7,
+      "average_rating": 7.49
+    },
+    {
+      "year": 1952,
+      "count": 7,
+      "average_rating": 7.31
+    },
+    {
+      "year": 1953,
+      "count": 10,
+      "average_rating": 7.31
+    },
+    {
+      "year": 1954,
+      "count": 12,
+      "average_rating": 7.48
+    },
+    {
+      "year": 1955,
+      "count": 10,
+      "average_rating": 7.14
+    },
+    {
+      "year": 1956,
+      "count": 12,
+      "average_rating": 6.98
+    },
+    {
+      "year": 1957,
+      "count": 12,
+      "average_rating": 7.71
+    },
+    {
+      "year": 1958,
+      "count": 11,
+      "average_rating": 7.4
+    },
+    {
+      "year": 1959,
+      "count": 13,
+      "average_rating": 7.55
+    },
+    {
+      "year": 1960,
+      "count": 16,
+      "average_rating": 7.41
+    },
+    {
+      "year": 1961,
+      "count": 17,
+      "average_rating": 7.22
+    },
+    {
+      "year": 1962,
+      "count": 17,
+      "average_rating": 7.49
+    },
+    {
+      "year": 1963,
+      "count": 22,
+      "average_rating": 7.18
+    },
+    {
+      "year": 1964,
+      "count": 20,
+      "average_rating": 7.47
+    },
+    {
+      "year": 1965,
+      "count": 21,
+      "average_rating": 7.1
+    },
+    {
+      "year": 1966,
+      "count": 19,
+      "average_rating": 7.23
+    },
+    {
+      "year": 1967,
+      "count": 24,
+      "average_rating": 7.19
+    },
+    {
+      "year": 1968,
+      "count": 25,
+      "average_rating": 7.11
+    },
+    {
+      "year": 1969,
+      "count": 24,
+      "average_rating": 6.71
+    },
+    {
+      "year": 1970,
+      "count": 15,
+      "average_rating": 6.61
+    },
+    {
+      "year": 1971,
+      "count": 23,
+      "average_rating": 7.04
+    },
+    {
+      "year": 1972,
+      "count": 20,
+      "average_rating": 7.05
+    },
+    {
+      "year": 1973,
+      "count": 40,
+      "average_rating": 6.9
+    },
+    {
+      "year": 1974,
+      "count": 21,
+      "average_rating": 6.94
+    },
+    {
+      "year": 1975,
+      "count": 23,
+      "average_rating": 6.76
+    },
+    {
+      "year": 1976,
+      "count": 22,
+      "average_rating": 6.85
+    },
+    {
+      "year": 1977,
+      "count": 37,
+      "average_rating": 6.36
+    },
+    {
+      "year": 1978,
+      "count": 34,
+      "average_rating": 6.6
+    },
+    {
+      "year": 1979,
+      "count": 34,
+      "average_rating": 6.89
+    },
+    {
+      "year": 1980,
+      "count": 45,
+      "average_rating": 6.53
+    },
+    {
+      "year": 1981,
+      "count": 48,
+      "average_rating": 6.61
+    },
+    {
+      "year": 1982,
+      "count": 46,
+      "average_rating": 6.51
+    },
+    {
+      "year": 1983,
+      "count": 52,
+      "average_rating": 6.36
+    },
+    {
+      "year": 1984,
+      "count": 57,
+      "average_rating": 6.68
+    },
+    {
+      "year": 1985,
+      "count": 80,
+      "average_rating": 6.51
+    },
+    {
+      "year": 1986,
+      "count": 68,
+      "average_rating": 6.49
+    },
+    {
+      "year": 1987,
+      "count": 73,
+      "average_rating": 6.71
+    },
+    {
+      "year": 1988,
+      "count": 82,
+      "average_rating": 6.6
+    },
+    {
+      "year": 1989,
+      "count": 80,
+      "average_rating": 6.5
+    },
+    {
+      "year": 1990,
+      "count": 76,
+      "average_rating": 6.56
+    },
+    {
+      "year": 1991,
+      "count": 83,
+      "average_rating": 6.57
+    },
+    {
+      "year": 1992,
+      "count": 89,
+      "average_rating": 6.5
+    },
+    {
+      "year": 1993,
+      "count": 118,
+      "average_rating": 6.62
+    },
+    {
+      "year": 1994,
+      "count": 103,
+      "average_rating": 6.4
+    },
+    {
+      "year": 1995,
+      "count": 113,
+      "average_rating": 6.57
+    },
+    {
+      "year": 1996,
+      "count": 96,
+      "average_rating": 6.38
+    },
+    {
+      "year": 1997,
+      "count": 117,
+      "average_rating": 6.53
+    },
+    {
+      "year": 1998,
+      "count": 130,
+      "average_rating": 6.5
+    },
+    {
+      "year": 1999,
+      "count": 125,
+      "average_rating": 6.51
+    },
+    {
+      "year": 2000,
+      "count": 138,
+      "average_rating": 6.47
+    },
+    {
+      "year": 2001,
+      "count": 164,
+      "average_rating": 6.45
+    },
+    {
+      "year": 2002,
+      "count": 165,
+      "average_rating": 6.46
+    },
+    {
+      "year": 2003,
+      "count": 182,
+      "average_rating": 6.37
+    },
+    {
+      "year": 2004,
+      "count": 205,
+      "average_rating": 6.51
+    },
+    {
+      "year": 2005,
+      "count": 216,
+      "average_rating": 6.29
+    },
+    {
+      "year": 2006,
+      "count": 237,
+      "average_rating": 6.39
+    },
+    {
+      "year": 2007,
+      "count": 245,
+      "average_rating": 6.44
+    },
+    {
+      "year": 2008,
+      "count": 250,
+      "average_rating": 6.33
+    },
+    {
+      "year": 2009,
+      "count": 291,
+      "average_rating": 6.32
+    },
+    {
+      "year": 2010,
+      "count": 279,
+      "average_rating": 6.42
+    },
+    {
+      "year": 2011,
+      "count": 316,
+      "average_rating": 6.39
+    },
+    {
+      "year": 2012,
+      "count": 285,
+      "average_rating": 6.35
+    },
+    {
+      "year": 2013,
+      "count": 347,
+      "average_rating": 6.38
+    },
+    {
+      "year": 2014,
+      "count": 371,
+      "average_rating": 6.38
+    },
+    {
+      "year": 2015,
+      "count": 390,
+      "average_rating": 6.37
+    },
+    {
+      "year": 2016,
+      "count": 470,
+      "average_rating": 6.35
+    },
+    {
+      "year": 2017,
+      "count": 510,
+      "average_rating": 6.42
+    },
+    {
+      "year": 2018,
+      "count": 530,
+      "average_rating": 6.47
+    },
+    {
+      "year": 2019,
+      "count": 500,
+      "average_rating": 6.67
+    },
+    {
+      "year": 2020,
+      "count": 453,
+      "average_rating": 6.62
+    },
+    {
+      "year": 2021,
+      "count": 714,
+      "average_rating": 6.58
+    },
+    {
+      "year": 2022,
+      "count": 208,
+      "average_rating": 3.64
+    },
+    {
+      "year": 2023,
+      "count": 8,
+      "average_rating": 0.0
+    },
+    {
+      "year": 2024,
+      "count": 1,
+      "average_rating": 0.0
+    }
+  ],
+  "rating_distribution": [
+    {
+      "range": "0-1",
+      "count": 100
+    },
+    {
+      "range": "1-2",
+      "count": 2
+    },
+    {
+      "range": "2-3",
+      "count": 27
+    },
+    {
+      "range": "3-4",
+      "count": 50
+    },
+    {
+      "range": "4-5",
+      "count": 414
+    },
+    {
+      "range": "5-6",
+      "count": 1974
+    },
+    {
+      "range": "6-7",
+      "count": 4033
+    },
+    {
+      "range": "7-8",
+      "count": 2790
+    },
+    {
+      "range": "8-9",
+      "count": 428
+    },
+    {
+      "range": "9-10",
+      "count": 7
+    },
+    {
+      "range": "10-11",
+      "count": 1
+    }
+  ],
+  "top_movies": [
+    {
+      "title": "Spider-Man: No Way Home",
+      "release_year": 2021,
+      "popularity": 5083.95,
+      "vote_average": 8.3,
+      "vote_count": 8940,
+      "language": "en",
+      "genre": "Action, Adventure, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "The Batman",
+      "release_year": 2022,
+      "popularity": 3827.66,
+      "vote_average": 8.1,
+      "vote_count": 1151,
+      "language": "en",
+      "genre": "Crime, Mystery, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "No Exit",
+      "release_year": 2022,
+      "popularity": 2618.09,
+      "vote_average": 6.3,
+      "vote_count": 122,
+      "language": "en",
+      "genre": "Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/vDHsLnOWKlPGmWs0kGfuhNF4w5l.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Encanto",
+      "release_year": 2021,
+      "popularity": 2402.2,
+      "vote_average": 7.7,
+      "vote_count": 5076,
+      "language": "en",
+      "genre": "Animation, Comedy, Family, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "The King's Man",
+      "release_year": 2021,
+      "popularity": 1895.51,
+      "vote_average": 7.0,
+      "vote_count": 1793,
+      "language": "en",
+      "genre": "Action, Adventure, Thriller, War",
+      "poster_url": "https://image.tmdb.org/t/p/original/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "The Commando",
+      "release_year": 2022,
+      "popularity": 1750.48,
+      "vote_average": 6.6,
+      "vote_count": 33,
+      "language": "en",
+      "genre": "Action, Crime, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/pSh8MyYu5CmfyWEHzv8FEARH2zq.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Scream",
+      "release_year": 2022,
+      "popularity": 1675.16,
+      "vote_average": 6.8,
+      "vote_count": 821,
+      "language": "en",
+      "genre": "Horror, Mystery, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/kZNHR1upJKF3eTzdgl5V8s8a4C3.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Kimi",
+      "release_year": 2022,
+      "popularity": 1601.78,
+      "vote_average": 6.3,
+      "vote_count": 206,
+      "language": "en",
+      "genre": "Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Fistful of Vengeance",
+      "release_year": 2022,
+      "popularity": 1594.01,
+      "vote_average": 5.3,
+      "vote_count": 114,
+      "language": "en",
+      "genre": "Action, Crime, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/3cccEF9QZgV9bLWyupJO41HSrOV.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Eternals",
+      "release_year": 2021,
+      "popularity": 1537.41,
+      "vote_average": 7.2,
+      "vote_count": 4726,
+      "language": "en",
+      "genre": "Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/zByhtBvX99ZiCQhac1sh9d9r6nb.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Pursuit",
+      "release_year": 2022,
+      "popularity": 1500.52,
+      "vote_average": 5.9,
+      "vote_count": 16,
+      "language": "en",
+      "genre": "Action, Crime, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/wYihSXWYqN8Ejsdut2P1P0o97N0.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "My Hero Academia: World Heroes' Mission",
+      "release_year": 2021,
+      "popularity": 1485.06,
+      "vote_average": 7.3,
+      "vote_count": 100,
+      "language": "ja",
+      "genre": "Animation, Action, Fantasy, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/4NUzcKtYPKkfTwKsLjwNt8nRIXV.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Restless",
+      "release_year": 2022,
+      "popularity": 1468.38,
+      "vote_average": 5.9,
+      "vote_count": 107,
+      "language": "fr",
+      "genre": "Action, Thriller, Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/aw4GGsRwhQtyLsjzC7dsAahfCDY.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Nightmare Alley",
+      "release_year": 2021,
+      "popularity": 1455.14,
+      "vote_average": 7.1,
+      "vote_count": 952,
+      "language": "en",
+      "genre": "Crime, Drama, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/680klE0dIreQQOyWKFgNnCAJtws.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "The Ice Age Adventures of Buck Wild",
+      "release_year": 2022,
+      "popularity": 1431.31,
+      "vote_average": 7.1,
+      "vote_count": 737,
+      "language": "en",
+      "genre": "Animation, Comedy, Adventure, Family",
+      "poster_url": "https://image.tmdb.org/t/p/original/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Hotel Transylvania: Transformania",
+      "release_year": 2022,
+      "popularity": 1373.78,
+      "vote_average": 7.0,
+      "vote_count": 288,
+      "language": "en",
+      "genre": "Animation, Family, Fantasy, Comedy, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Texas Chainsaw Massacre",
+      "release_year": 2022,
+      "popularity": 1312.79,
+      "vote_average": 5.1,
+      "vote_count": 521,
+      "language": "en",
+      "genre": "Horror",
+      "poster_url": "https://image.tmdb.org/t/p/original/meRIRfADEGVo65xgPO6eZvJ0CRG.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "The Requin",
+      "release_year": 2022,
+      "popularity": 1252.32,
+      "vote_average": 4.6,
+      "vote_count": 65,
+      "language": "en",
+      "genre": "Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg",
+      "rating_category": "Poor"
+    },
+    {
+      "title": "Looop Lapeta",
+      "release_year": 2022,
+      "popularity": 1240.95,
+      "vote_average": 6.0,
+      "vote_count": 31,
+      "language": "hi",
+      "genre": "Action, Comedy, Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/onGdT8sYi89drvSJyEJnft97rOq.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Red Notice",
+      "release_year": 2021,
+      "popularity": 1178.54,
+      "vote_average": 6.8,
+      "vote_count": 3193,
+      "language": "en",
+      "genre": "Action, Comedy, Crime, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Sing 2",
+      "release_year": 2021,
+      "popularity": 1112.9,
+      "vote_average": 8.2,
+      "vote_count": 2172,
+      "language": "en",
+      "genre": "Animation, Comedy, Family, Music",
+      "poster_url": "https://image.tmdb.org/t/p/original/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "The Jack in the Box: Awakening",
+      "release_year": 2022,
+      "popularity": 1096.79,
+      "vote_average": 5.4,
+      "vote_count": 43,
+      "language": "en",
+      "genre": "Horror",
+      "poster_url": "https://image.tmdb.org/t/p/original/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Venom: Let There Be Carnage",
+      "release_year": 2021,
+      "popularity": 1053.62,
+      "vote_average": 7.1,
+      "vote_count": 6539,
+      "language": "en",
+      "genre": "Science Fiction, Action, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "The Matrix Resurrections",
+      "release_year": 2021,
+      "popularity": 941.02,
+      "vote_average": 6.8,
+      "vote_count": 3160,
+      "language": "en",
+      "genre": "Science Fiction, Action, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Resident Evil: Welcome to Raccoon City",
+      "release_year": 2021,
+      "popularity": 881.09,
+      "vote_average": 6.1,
+      "vote_count": 1312,
+      "language": "en",
+      "genre": "Horror, Action, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/7uRbWOXxpWDMtnsd2PF3clu65jc.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Last Man Down",
+      "release_year": 2021,
+      "popularity": 869.61,
+      "vote_average": 6.3,
+      "vote_count": 318,
+      "language": "en",
+      "genre": "Action, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "American Siege",
+      "release_year": 2022,
+      "popularity": 867.33,
+      "vote_average": 5.4,
+      "vote_count": 49,
+      "language": "en",
+      "genre": "Action, Thriller, Crime, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/daeVrgyj0ue8qb3AHyU3UeCwoZz.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Uncharted",
+      "release_year": 2022,
+      "popularity": 866.39,
+      "vote_average": 7.1,
+      "vote_count": 691,
+      "language": "en",
+      "genre": "Action, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/sqLowacltbZLoCa4KYye64RvvdQ.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+      "release_year": 2020,
+      "popularity": 845.99,
+      "vote_average": 8.4,
+      "vote_count": 2224,
+      "language": "ja",
+      "genre": "Animation, Action, Adventure, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "Ghostbusters: Afterlife",
+      "release_year": 2021,
+      "popularity": 839.9,
+      "vote_average": 7.7,
+      "vote_count": 2225,
+      "language": "en",
+      "genre": "Fantasy, Comedy, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "The 355",
+      "release_year": 2022,
+      "popularity": 781.75,
+      "vote_average": 6.1,
+      "vote_count": 313,
+      "language": "en",
+      "genre": "Action, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/uQt2dJFMnJmAp9zLAWNfGilK0BW.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "release_year": 2021,
+      "popularity": 769.18,
+      "vote_average": 7.7,
+      "vote_count": 5845,
+      "language": "en",
+      "genre": "Action, Adventure, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Marry Me",
+      "release_year": 2022,
+      "popularity": 761.79,
+      "vote_average": 6.9,
+      "vote_count": 230,
+      "language": "en",
+      "genre": "Romance, Comedy, Music",
+      "poster_url": "https://image.tmdb.org/t/p/original/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "The Hunting",
+      "release_year": 2022,
+      "popularity": 761.13,
+      "vote_average": 5.8,
+      "vote_count": 10,
+      "language": "en",
+      "genre": "Horror",
+      "poster_url": "https://image.tmdb.org/t/p/original/kvhrltQIRp1u84ao9uj52YPaWNY.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "West Side Story",
+      "release_year": 2021,
+      "popularity": 678.19,
+      "vote_average": 7.4,
+      "vote_count": 562,
+      "language": "en",
+      "genre": "Drama, Romance, Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Through My Window",
+      "release_year": 2022,
+      "popularity": 659.11,
+      "vote_average": 7.8,
+      "vote_count": 1331,
+      "language": "es",
+      "genre": "Romance, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/6gg7fvKc1ZxP9yCczweSxIGYp4S.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "The Seven Deadly Sins: Cursed by Light",
+      "release_year": 2021,
+      "popularity": 647.54,
+      "vote_average": 8.0,
+      "vote_count": 312,
+      "language": "ja",
+      "genre": "Animation, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/k0ThmZQl5nHe4JefC2bXjqtgYp0.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "One Shot",
+      "release_year": 2021,
+      "popularity": 622.24,
+      "vote_average": 6.8,
+      "vote_count": 382,
+      "language": "en",
+      "genre": "Action",
+      "poster_url": "https://image.tmdb.org/t/p/original/3OXiTjU30gWtqxmx4BU9RVp2OTv.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Tom and Jerry: Cowboy Up!",
+      "release_year": 2022,
+      "popularity": 614.11,
+      "vote_average": 7.1,
+      "vote_count": 163,
+      "language": "en",
+      "genre": "Animation, Comedy, Family, Western",
+      "poster_url": "https://image.tmdb.org/t/p/original/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Chernobyl: Abyss",
+      "release_year": 2020,
+      "popularity": 601.96,
+      "vote_average": 6.2,
+      "vote_count": 314,
+      "language": "ru",
+      "genre": "Drama, History, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Desperate Riders",
+      "release_year": 2022,
+      "popularity": 590.47,
+      "vote_average": 6.8,
+      "vote_count": 10,
+      "language": "en",
+      "genre": "Western, Action",
+      "poster_url": "https://image.tmdb.org/t/p/original/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Clifford the Big Red Dog",
+      "release_year": 2021,
+      "popularity": 585.01,
+      "vote_average": 7.3,
+      "vote_count": 1100,
+      "language": "en",
+      "genre": "Family, Adventure, Comedy, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/oifhfVhUcuDjE61V5bS5dfShQrm.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Tyler Perry's A Madea Homecoming",
+      "release_year": 2022,
+      "popularity": 577.59,
+      "vote_average": 6.7,
+      "vote_count": 42,
+      "language": "en",
+      "genre": "Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/vzX5GNRTXsAltdU1tfASmZbzYmv.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "The Boss Baby: Family Business",
+      "release_year": 2021,
+      "popularity": 567.42,
+      "vote_average": 7.6,
+      "vote_count": 1785,
+      "language": "en",
+      "genre": "Animation, Comedy, Adventure, Family",
+      "poster_url": "https://image.tmdb.org/t/p/original/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Turning Red",
+      "release_year": 2022,
+      "popularity": 564.51,
+      "vote_average": 8.6,
+      "vote_count": 8,
+      "language": "en",
+      "genre": "Animation, Family, Comedy, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "Brazen",
+      "release_year": 2022,
+      "popularity": 553.14,
+      "vote_average": 4.8,
+      "vote_count": 211,
+      "language": "en",
+      "genre": "Thriller, Mystery, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/7e4n1GfC9iky9VQzH3cDQz9wYpO.jpg",
+      "rating_category": "Poor"
+    },
+    {
+      "title": "The House",
+      "release_year": 2022,
+      "popularity": 551.65,
+      "vote_average": 7.1,
+      "vote_count": 432,
+      "language": "en",
+      "genre": "Animation, Drama, Comedy, Horror",
+      "poster_url": "https://image.tmdb.org/t/p/original/iZjMFSKCrleKolC1gYcz5Rs8bk1.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Blacklight",
+      "release_year": 2022,
+      "popularity": 533.9,
+      "vote_average": 5.1,
+      "vote_count": 88,
+      "language": "en",
+      "genre": "Action, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Ron's Gone Wrong",
+      "release_year": 2021,
+      "popularity": 509.28,
+      "vote_average": 8.1,
+      "vote_count": 1000,
+      "language": "en",
+      "genre": "Animation, Science Fiction, Family, Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/7M0uwPgwvPONdFG0jk8TPK09xJU.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "Free Guy",
+      "release_year": 2021,
+      "popularity": 447.87,
+      "vote_average": 7.7,
+      "vote_count": 5158,
+      "language": "en",
+      "genre": "Comedy, Action, Adventure, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Cruella",
+      "release_year": 2021,
+      "popularity": 429.61,
+      "vote_average": 8.2,
+      "vote_count": 6675,
+      "language": "en",
+      "genre": "Comedy, Crime",
+      "poster_url": "https://image.tmdb.org/t/p/original/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "The Suicide Squad",
+      "release_year": 2021,
+      "popularity": 424.98,
+      "vote_average": 7.7,
+      "vote_count": 5689,
+      "language": "en",
+      "genre": "Action, Adventure, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "The Simpsons in Plusaversary",
+      "release_year": 2021,
+      "popularity": 418.59,
+      "vote_average": 6.6,
+      "vote_count": 251,
+      "language": "en",
+      "genre": "Animation, Comedy, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/p5jzbffrXuBTjsiwrQ3aOMTrvCj.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Forgive Us Our Trespasses",
+      "release_year": 2022,
+      "popularity": 409.69,
+      "vote_average": 6.3,
+      "vote_count": 27,
+      "language": "en",
+      "genre": "Drama, War",
+      "poster_url": "https://image.tmdb.org/t/p/original/4RYZSHM3eaxXAnjbgNiVaqmekL8.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Luca",
+      "release_year": 2021,
+      "popularity": 408.75,
+      "vote_average": 8.0,
+      "vote_count": 5886,
+      "language": "en",
+      "genre": "Animation, Comedy, Family, Fantasy",
+      "poster_url": "https://image.tmdb.org/t/p/original/jTswp6KyDYKtvC52GbHagrZbGvD.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "Mortal Kombat",
+      "release_year": 2021,
+      "popularity": 402.27,
+      "vote_average": 7.2,
+      "vote_count": 4447,
+      "language": "en",
+      "genre": "Action, Fantasy, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Zack Snyder's Justice League",
+      "release_year": 2021,
+      "popularity": 398.46,
+      "vote_average": 8.3,
+      "vote_count": 7414,
+      "language": "en",
+      "genre": "Action, Adventure, Fantasy, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "Mother/Android",
+      "release_year": 2021,
+      "popularity": 398.12,
+      "vote_average": 5.8,
+      "vote_count": 422,
+      "language": "en",
+      "genre": "Science Fiction, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Exploits of a Young Don Juan",
+      "release_year": 1986,
+      "popularity": 396.95,
+      "vote_average": 5.5,
+      "vote_count": 88,
+      "language": "fr",
+      "genre": "Comedy, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/oZvMcGvyTfrFLny6i3RJONQb5C9.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Dune",
+      "release_year": 2021,
+      "popularity": 394.3,
+      "vote_average": 7.9,
+      "vote_count": 6237,
+      "language": "en",
+      "genre": "Science Fiction, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "The Last Warrior: Root of Evil",
+      "release_year": 2021,
+      "popularity": 391.96,
+      "vote_average": 7.1,
+      "vote_count": 89,
+      "language": "ru",
+      "genre": "Fantasy, Adventure, Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/4qE7mvUYGY5epfcgeJpM6EfHgq5.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "The Privilege",
+      "release_year": 2022,
+      "popularity": 387.92,
+      "vote_average": 5.1,
+      "vote_count": 104,
+      "language": "de",
+      "genre": "Horror",
+      "poster_url": "https://image.tmdb.org/t/p/original/qBLi3Nd5JMQGMiOmmfuPgLw5SzD.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Queen of Spades",
+      "release_year": 2021,
+      "popularity": 387.16,
+      "vote_average": 6.4,
+      "vote_count": 37,
+      "language": "en",
+      "genre": "Horror",
+      "poster_url": "https://image.tmdb.org/t/p/original/4IKBzVBPLXu9p5cfEfdJjHdlafV.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Antlers",
+      "release_year": 2021,
+      "popularity": 380.88,
+      "vote_average": 6.4,
+      "vote_count": 544,
+      "language": "en",
+      "genre": "Drama, Horror, Mystery",
+      "poster_url": "https://image.tmdb.org/t/p/original/cMch3tiexw3FdOEeZxMWVel61Xg.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Dangerous",
+      "release_year": 2021,
+      "popularity": 379.86,
+      "vote_average": 6.4,
+      "vote_count": 175,
+      "language": "en",
+      "genre": "Action, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/vTtkQGC7qKlSRQJZYtAWAmYdH0A.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "After We Fell",
+      "release_year": 2021,
+      "popularity": 365.85,
+      "vote_average": 7.2,
+      "vote_count": 1563,
+      "language": "en",
+      "genre": "Romance, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "No Time to Die",
+      "release_year": 2021,
+      "popularity": 360.16,
+      "vote_average": 7.5,
+      "vote_count": 3616,
+      "language": "en",
+      "genre": "Adventure, Action, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Sooryavanshi",
+      "release_year": 2021,
+      "popularity": 352.37,
+      "vote_average": 5.8,
+      "vote_count": 93,
+      "language": "hi",
+      "genre": "Action, Crime, Thriller",
+      "poster_url": "https://image.tmdb.org/t/p/original/8p3mhjyLjHKtaAv8tFKfvEBtir0.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Finch",
+      "release_year": 2021,
+      "popularity": 348.94,
+      "vote_average": 8.1,
+      "vote_count": 2075,
+      "language": "en",
+      "genre": "Science Fiction, Drama, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "Two",
+      "release_year": 2021,
+      "popularity": 342.66,
+      "vote_average": 5.4,
+      "vote_count": 207,
+      "language": "es",
+      "genre": "Thriller, Horror",
+      "poster_url": "https://image.tmdb.org/t/p/original/5P7QwmoYl70tsRZ8e0VnI9RI1MF.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "PAW Patrol: The Movie",
+      "release_year": 2021,
+      "popularity": 339.37,
+      "vote_average": 7.5,
+      "vote_count": 855,
+      "language": "en",
+      "genre": "Animation, Family, Adventure, Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "release_year": 2018,
+      "popularity": 338.4,
+      "vote_average": 8.3,
+      "vote_count": 24079,
+      "language": "en",
+      "genre": "Adventure, Action, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "rating_category": "Excellent"
+    },
+    {
+      "title": "Batman",
+      "release_year": 1989,
+      "popularity": 338.27,
+      "vote_average": 7.2,
+      "vote_count": 6109,
+      "language": "en",
+      "genre": "Fantasy, Action",
+      "poster_url": "https://image.tmdb.org/t/p/original/jUhGHv4YihieVjhU2TmFaBsZ4Xg.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Black Widow",
+      "release_year": 2021,
+      "popularity": 337.65,
+      "vote_average": 7.5,
+      "vote_count": 7127,
+      "language": "en",
+      "genre": "Action, Adventure, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "The Wonderful Winter of Mickey Mouse",
+      "release_year": 2022,
+      "popularity": 333.35,
+      "vote_average": 5.7,
+      "vote_count": 3,
+      "language": "en",
+      "genre": "Animation, Comedy",
+      "poster_url": "https://image.tmdb.org/t/p/original/3dspgMFx64kA8BqkGZQK6Hk1sCV.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "F9",
+      "release_year": 2021,
+      "popularity": 331.94,
+      "vote_average": 7.3,
+      "vote_count": 5092,
+      "language": "en",
+      "genre": "Action, Crime, Thriller, Adventure",
+      "poster_url": "https://image.tmdb.org/t/p/original/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",
+      "rating_category": "Good"
+    },
+    {
+      "title": "Moonfall",
+      "release_year": 2022,
+      "popularity": 328.68,
+      "vote_average": 5.9,
+      "vote_count": 186,
+      "language": "en",
+      "genre": "Action, Adventure, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "Sex, Shame and Tears 2",
+      "release_year": 2022,
+      "popularity": 325.62,
+      "vote_average": 2.2,
+      "vote_count": 5,
+      "language": "es",
+      "genre": "Comedy, Drama",
+      "poster_url": "https://image.tmdb.org/t/p/original/2ip2iDBSXfdHeXpR2qETGr5Q76V.jpg",
+      "rating_category": "Poor"
+    },
+    {
+      "title": "Diary of a Wimpy Kid",
+      "release_year": 2021,
+      "popularity": 324.71,
+      "vote_average": 6.5,
+      "vote_count": 189,
+      "language": "en",
+      "genre": "Animation, Comedy, Family",
+      "poster_url": "https://image.tmdb.org/t/p/original/obg6lWuNaZkoSlwrVG4VVk4SmT.jpg",
+      "rating_category": "Average"
+    },
+    {
+      "title": "AI Love You",
+      "release_year": 2022,
+      "popularity": 317.64,
+      "vote_average": 5.3,
+      "vote_count": 16,
+      "language": "th",
+      "genre": "Comedy, Romance, Science Fiction",
+      "poster_url": "https://image.tmdb.org/t/p/original/sBiJOvHCSWORnFpc4yItflIkdTi.jpg",
+      "rating_category": "Average"
+    }
+  ]
+}

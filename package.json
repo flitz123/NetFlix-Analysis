@@ -1,0 +1,10 @@
+{
+  "name": "cinescope",
+  "private": true,
+  "scripts": {
+    "build:data": "python scripts/elt_pipeline.py",
+    "dev": "python -m http.server 4173",
+    "build": "python scripts/elt_pipeline.py",
+    "start": "python -m http.server 4173"
+  }
+}
