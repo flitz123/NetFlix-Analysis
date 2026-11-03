@@ -2,9 +2,9 @@
   "name": "cinescope",
   "private": true,
   "scripts": {
-    "build:data": "python scripts/elt_pipeline.py",
-    "dev": "python -m http.server 4173",
-    "build": "python scripts/elt_pipeline.py",
-    "start": "python -m http.server 4173"
+    "build:data": "node scripts/build_data.js",
+    "dev": "node scripts/dev_server.js",
+    "build": "node scripts/build_data.js",
+    "start": "node scripts/dev_server.js"
   }
 }
