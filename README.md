@@ -1,6 +1,6 @@
-# CineScope Movie Intelligence
+# Netfix Movie Analysis Visualization & Recommendetion
 
-CineScope is a Vercel-ready movie analytics dashboard built from `mymoviedb.csv`.
+Netfix Movie Analysis Visualization & Recommendetion is a Vercel-ready movie analytics dashboard built from `mymoviedb.csv`.
 
 ## Features
 
